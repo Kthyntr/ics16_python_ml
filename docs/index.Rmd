@@ -15,3 +15,6 @@ hist(temp)
 
 
 ### [Section 1](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/Sec1%E5%88%9D%E3%82%81%E3%81%AB.ipynb)
+
+
+### [section1-2](Sec1初めに.html)
