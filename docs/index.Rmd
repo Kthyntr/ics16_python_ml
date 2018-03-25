@@ -1,5 +1,5 @@
 ---
-title: "dy Group"
+title: "ICS16 Study Group"
 output:
   html_document:
     theme: yeti
