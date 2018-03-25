@@ -1,5 +1,5 @@
 ---
-title: "ICS16 Study Group"
+title: "dy Group"
 output:
   html_document:
     theme: yeti
@@ -18,6 +18,7 @@ output:
 
 - 2018/03/14
     - [Section 1](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_1.ipynb)
+    - [Section 1](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/Section_01.ipynb)
     - [Section 2](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_2.ipynb)
 
 - 2018/03/28
