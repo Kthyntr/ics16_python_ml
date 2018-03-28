@@ -21,8 +21,8 @@ output:
 
 - 2018/03/14
     - [Section 1](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_1.ipynb)
-    - [Section 2](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_2.ipynb)
-    - [Section 2後半](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_2_yone.ipynb)
+    - [Section 2 前半](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_2_1.ipynb)
+    - [Section 2 後半](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/section_2_2.ipynb)
 
 - 2018/03/28
     - [Datasets](http://nbviewer.jupyter.org/github/Kthyntr/ics16_python_ml/blob/master/docs/ML_dataset.ipynb)
