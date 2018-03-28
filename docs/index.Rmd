@@ -30,7 +30,8 @@ output:
 
 <img src="../images/ml_map.png" alt="logo" width="660" height="440" align = "center">
 
-```{js, echo=FALSE}
+
+```{js, echo = FALSE}
 $(function(){
   $("img:not(.lb-image)").wrap(function() {
     return "<a href='" + $(this).attr("src") + "' data-lightbox='" + $(this).attr("scr") + "'></a>";

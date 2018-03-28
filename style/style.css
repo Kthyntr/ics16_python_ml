@@ -4,7 +4,7 @@ h1:not(.title) {
 	border-bottom: 2px solid #ccc;
 }
 h1::after {
-	position: absolute;
+	position: relative;
 	bottom: -2px;
 	left: 0;
 	z-index: 2;
