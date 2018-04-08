@@ -10,7 +10,7 @@ output:
 ---
 
 
-<img src="../images/logo.jpg" alt="logo" width="120" height="80" align = "right">
+<!-- <img src="../images/logo.jpg" alt="logo" width="120" height="80" align = "right"> -->
 
 <br></br>
 
